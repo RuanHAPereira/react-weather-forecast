@@ -3,7 +3,7 @@
 Este é um aplicativo de previsão do tempo feito com React.js. 
 Ele permite que os usuários pesquisem a previsão do tempo de uma cidade específica e exibam informações detalhadas como temperatura, sensação térmica, umidade e pressão.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 React.js: Biblioteca JavaScript para construir interfaces de usuário.
 
