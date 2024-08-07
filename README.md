@@ -1,9 +1,9 @@
-Deploy: https://react-weather-forecast-xi.vercel.app
-
 # React Weather Forecast
 
 Este é um aplicativo de previsão do tempo feito com React.js. 
 Ele permite que os usuários pesquisem a previsão do tempo de uma cidade específica e exibam informações detalhadas como temperatura, sensação térmica, umidade e pressão.
+
+Deploy: https://react-weather-forecast-xi.vercel.app
 
 ## Tecnologias Utilizadas
 
